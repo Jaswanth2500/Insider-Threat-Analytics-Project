@@ -60,5 +60,5 @@ Analytics Dashboard (XLSX/Power BI) (optional)
 
  Author and References
 
-Author: Jaswanth T– Cybersecurity & Analytics Enthusiast | Portfolio Project
+Author: Jaswanth Thirunavukarasu – Cybersecurity & Analytics Enthusiast | Portfolio Project
 References: NIST Cybersecurity Framework • ISO 27001 • CERT Insider Threat Guide • Verizon Data Breach Investigations Report
