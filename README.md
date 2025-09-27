@@ -1,5 +1,7 @@
 ## Insider Threat Analytics Project
 
+Detecting Insider Threats Using Behavioral Analytics in a Mid-Sized Company
+
 # Introduction:
 This project simulates insider-threat detection for a mid-sized, data-driven company (~150 employees) that stores and processes sensitive client information. The goal is to design a complete framework combining risk assessment, access-control policy, employee training, anomaly analytics, and an incident-response playbook. It demonstrates both technical and communication skills, making it portfolio-ready for cybersecurity and IT risk management roles.
 
