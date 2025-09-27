@@ -41,7 +41,7 @@ Employee Training Materials (PDF/TXT)
 Incident Response Playbook (DOCX + Diagram)
 • Step-by-step plan for detection, investigation, communication, and recovery.
 
-Analytics Dashboard (XLSX/Power BI) (optional)
+Analytics Dashboard (XLSX/Power BI) 
 • Simulated login/file-access data, anomaly scoring (Z-score or clustering), and visual charts.
 
  Tools and Technologies
